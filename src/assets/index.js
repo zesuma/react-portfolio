@@ -33,7 +33,7 @@ import tesla from "./company/tesla.png";
 import dbt from "./company/dbt-logo.png"
 import belay from "./company/belay-logo.png"
 
-import dbtwork from "./dbt-work.png";
+import dbtwork from "./dbt-2023.png";
 import twwork from "./tw-work.png";
 import cwwork from "./cwwork.png";
 
